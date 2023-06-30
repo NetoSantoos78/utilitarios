@@ -5,7 +5,7 @@ cd /etc/SSHPlus/ && wget https://www.dropbox.com/s/muh8otpcjb9qa6d/WebSocket && 
 
 * 3° PASSO: COPIAR O COMANDO ABAIXO E COLAR DENTRO DA VPS NOVAMENTE E DÁ ENTER<br>
 
-mkdir /opt/sshplus<br>
+mkdir /opt/sshplus
 echo > /opt/sshplus/sshplus<br>
 
 * 4° PASSO: TROQUE (SUA_MENSAGEM_AQUI) POR ALGUM NOME SEU(OBRIGATÓRIO) COPIA E COLA DENTRO DA VPS E DA ENTER<br>
